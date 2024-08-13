@@ -1,0 +1,4 @@
+dataset: https://www.kaggle.com/datasets/naofilahmad/sales-datset-product-sample
+tableau: https://public.tableau.com/app/profile/syihabuddin.ahmad/viz/Ecorse_HCK17G2/Dashboard1?publish=yes
+deployment: https://huggingface.co/spaces/grcvlrn/Ecorse_Final_Project/tree/main
+screen record deployment: https://drive.google.com/file/d/1o4KVyaV6XofXj3aeIn2_iIuRauuWD2yR/view?usp=sharing

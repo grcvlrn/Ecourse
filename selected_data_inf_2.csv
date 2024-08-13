@@ -1,0 +1,2 @@
+product_category,product,quantity_ordered,price_each,order_date,purchase_address,month,sales,city,hour,time_of_day,cluster
+Audio Devices,Apple Airpods Headphones,1,150.0,2019-10-07 11:23:00,"511 9th St, Portland, OR 97035",7,150.0, Portland,11,Morning,0
